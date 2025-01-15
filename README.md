@@ -7,7 +7,7 @@
   Bangladesh
  $ apt-get skill-list
  $ skill-list
-   Ruby, NodeJS, JS, Elixir, Python
+   Ruby, NodeJS, JS, Elixir, Python, Go
  $ cd
  $ |
 ```
